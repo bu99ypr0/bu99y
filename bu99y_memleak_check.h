@@ -2,7 +2,7 @@
 #define BU99Y_MEMLEAK_CHECK_H
 
 
-//  bu99y_memleak_check.h -- simple memory checker
+//  bu99y_memleak_check.h -- simple memory leak checker
 //  
 //  usage:
 //  
