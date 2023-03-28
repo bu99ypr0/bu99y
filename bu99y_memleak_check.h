@@ -9,11 +9,11 @@
 //  #define BU99Y_MEMLEAK_CHECK_IMPLEMENTATION
 //  //#define BU99Y_MEMLEAK_CHECK_ENABLED 0
 //  //#define BU99Y_MEMLEAK_CHECK_STATIC
-//  #include "slim_memleak_check.h"
+//  #include "bu99y_memleak_check.h"
 //  
 //  int main(int argc, char *argv[])
 //  {
-//      slim_memleak_check(0);
+//      bu99y_memleak_check(0);
 //  }
 
 
